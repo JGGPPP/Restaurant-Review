@@ -7,6 +7,7 @@ Full stack project to produce a restaurant review website.
 * Express
 * React
 * Node
+
 Main reason for project was:
 * creating databases/tables
 * making queries
